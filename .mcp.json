@@ -1,0 +1,9 @@
+{
+  "vallorix": {
+    "type": "http",
+    "url": "${VALLORIX_MCP_URL:-https://app.vallorix.ai/api/mcp/v1}",
+    "headers": {
+      "Authorization": "Bearer ${VALLORIX_API_KEY}"
+    }
+  }
+}

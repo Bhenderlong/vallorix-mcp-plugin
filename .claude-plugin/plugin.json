@@ -1,0 +1,15 @@
+{
+  "name": "vallorix",
+  "version": "1.0.0",
+  "description": "Vallorix MCP integration for Claude Code — query your compliance posture, get grounded remediation, and fix failing controls, all against your own self-hosted Vallorix instance.",
+  "author": {
+    "name": "Vallorix, by Inferix",
+    "url": "https://vallorix.ai"
+  },
+  "homepage": "https://vallorix.ai",
+  "repository": "https://github.com/Bhenderlong/Vallorix",
+  "license": "MIT",
+  "keywords": ["vallorix", "grc", "compliance", "soc2", "iso27001", "hipaa", "cmmc", "security", "mcp", "risk", "self-hosted", "sovereign", "audit"],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

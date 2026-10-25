@@ -1,0 +1,13 @@
+{
+  "name": "vallorix-plugin",
+  "owner": {
+    "name": "Vallorix, by Inferix"
+  },
+  "plugins": [
+    {
+      "name": "vallorix",
+      "source": "./",
+      "description": "Vallorix MCP integration for Claude Code. Connect to your self-hosted (or hosted) Vallorix instance to see open compliance gaps, check framework readiness, get grounded remediation, and fix failing controls as code — all against infrastructure you control."
+    }
+  ]
+}
